@@ -16,3 +16,5 @@ The project is deployed and accessible at:
 
 **[https://beautifulneon.xyz/olimpia/](https://beautifulneon.xyz/olimpia/)**
 
+Original project with commit history: **[https://github.com/cucicov/Olipmia/tree/main/main](https://github.com/cucicov/Olipmia/tree/main/main)**
+
